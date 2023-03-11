@@ -2,9 +2,7 @@
 
 Created by Joseph Henderson, Alana Reyna, and Karsten Steinhorst.
 
-Full stack application which runs data analysis on Spotify playlists
-
-A video showcasing this project can be viewed [here](https://youtu.be/e5YNPhjoCGo).
+Full stack application which runs data analysis on Spotify playlists via D3.js
 
 ## Video showcase:
 
