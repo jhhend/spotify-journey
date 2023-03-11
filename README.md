@@ -6,6 +6,10 @@ Full stack application which runs data analysis on Spotify playlists
 
 A video showcasing this project can be viewed [here](https://youtu.be/e5YNPhjoCGo).
 
+## Video showcase:
+
+[![Video Showcase](http://img.youtube.com/vi/e5YNPhjoCGo/0.jpg)](https://youtu.be/e5YNPhjoCGo "Click to go to youtube")
+
 ## Technologies and Languages Utilized
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
